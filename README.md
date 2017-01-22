@@ -276,7 +276,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Pick One Language for the Interview
 
 I wrote this short article about it: 
-[X] [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
+- [X] [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
@@ -292,8 +292,8 @@ You could also use these, but read around first. There may be caveats:
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-[X] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [X] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [X] http://blog.codingforinterviews.com/best-programming-language-jobs/
 - https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
 
 [See language resources here](programming-language-resources.md)

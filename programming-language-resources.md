@@ -6,7 +6,7 @@
     - [X] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
     - GDB:
         - [X] [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
-        - [X][Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
+        - [X] [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
       - [][Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
 
 - C++

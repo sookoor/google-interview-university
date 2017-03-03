@@ -7,7 +7,7 @@
     - GDB:
         - [X] [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
         - [X] [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
-      - [][Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
+        - [X][Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
 
 - C++
     - [X] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)

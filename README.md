@@ -920,7 +920,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] Dijkstra's algorithm - see above - 6.006
     - [ ] A*
         - [ ] [A Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-        - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+        - [X] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
         - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
 
 - I'll implement:

@@ -952,7 +952,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [X] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
 
 - ### Dynamic Programming
     - **NOTE:** DP is a valuable technique, but it is not mentioned on any of the prep material Google provides. But you could get a problem where DP provides an optimal solution. So I'm including it.

@@ -1813,7 +1813,7 @@ You're never really done.
 - ### Treap
     - Combination of a binary search tree and a heap
     - [ ] [Treap](https://en.wikipedia.org/wiki/Treap)
-    - [ ] [Data Structures: Treaps explained (video)](https://www.youtube.com/watch?v=6podLUYinH8)
+    - [X] [Data Structures: Treaps explained (video)](https://www.youtube.com/watch?v=6podLUYinH8)
     - [ ] [Applications in set operations](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 
 - ### Linear Programming (videos)

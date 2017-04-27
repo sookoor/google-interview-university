@@ -707,7 +707,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
     - [ ] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
-        - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
+        - [X] [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
     - [ ] count set bits
         - [X] [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)

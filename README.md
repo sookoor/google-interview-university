@@ -563,7 +563,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [X] Description:
         - [X] [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s)
         - [X] [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)

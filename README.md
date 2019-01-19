@@ -734,7 +734,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             time complexity: O(n)
             space complexity: best: O(1), worst: O(n/2)=O(n)
     - DFS (depth-first search)
-        - [MIT (video)](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+        - [X] [MIT (video)](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
         - notes:
             time complexity: O(n)
             space complexity:

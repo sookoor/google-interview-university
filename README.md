@@ -1072,7 +1072,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - ### Processes and Threads
     - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
-        - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+        - [Operating Systems and System Programming (video)](http://www.infocobuild.com/education/audio-video-courses/computer-science/CS162-Spring2015-Berkeley/lecture-01.html)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
